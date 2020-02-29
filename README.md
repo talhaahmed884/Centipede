@@ -1,2 +1,2 @@
 # Centipede
-Centipede Desktop Application
+Centipede Desktop Game
